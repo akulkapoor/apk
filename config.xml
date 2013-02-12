@@ -7,8 +7,8 @@
     <!-- versionCode is optional and Android only -->
 
     <name>BackBeat</name>
-    <icon src="BackBeatiPhone.png"></icon>
-    <icon src="BackBeatiPad.png"></icon>
+    <icon src="icon.png" width="57" height="57"></icon>
+    <icon src="icon-72.png" gap:platform="ios" width="72" height="72" />
     <description>
         BackBeat
     </description>
