@@ -8,6 +8,7 @@
 
     <name>BackBeat</name>
     <icon src="BackBeatiPhone.png"></icon>
+    <icon src="BackBeatiPad.png"></icon>
     <description>
         BackBeat
     </description>
